@@ -1,5 +1,5 @@
-const doble = (num) => {
-  return num * 2;
+const squared = (num) => {
+  return num * num;
 }
 
-console.log(doble(50));
+console.log(squared(50));
